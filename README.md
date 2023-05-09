@@ -28,6 +28,10 @@ Esentials for a student...
 - Pdf Reader
 - Zoom
 - Microsoft Teams
+- Arduino
+- Rasberry pi
+- Cisco packet Tracer
+- Proteus
 
 
 Esentials for teacher...
